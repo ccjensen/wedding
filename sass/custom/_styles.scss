@@ -1,0 +1,20 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+html {
+  background-color: #000;
+}
+
+body {
+  background-image: image-url('sunflower.jpg');
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+
+body header {
+  background-color: transparent;
+}
+
+body footer {
+  background-color: transparent;
+}
