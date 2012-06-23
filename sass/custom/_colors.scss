@@ -4,7 +4,7 @@
 
 //$header-bg: #263347;
 //$subtitle-color: lighten($header-bg, 58);
-$nav-bg: transparentize(#ccc, 0.05);
+$nav-bg: transparentize(#ccc, 0.10);
 //$nav-bg-front: image-url('noise.png');
 //$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
 //$sidebar-bg: desaturate(#eceff5, 8);
@@ -13,6 +13,9 @@ $nav-bg: transparentize(#ccc, 0.05);
 //$footer-bg: #ccc !default;
 //$footer-bg-front: image-url('noise.png');
 //$footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
+$nav-color: darken($nav-bg, 60);
+$nav-color-hover: lighten($nav-color, 70);
+$link-color: #073642;
 
 
 /* To use the light Solarized highlighting theme uncomment the following line */
