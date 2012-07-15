@@ -29,7 +29,6 @@ recommended_accommodations:
   - [
       ["Name", "Hotel Le Palme"],
 	  ["Stars", "****"],
-      ["Email", "x"],
       ["Website", "www.hotelpalme.it"],
       ["Price single", "€120"],
       ["Price double", "€160"],
@@ -155,7 +154,6 @@ accommodations_others:
     ]
   - [
       ["Name", "Albergo al Carugio"],
-      ["Email", "x"],
       ["Website", "www.alcarugio.it"],
       ["Price single", "x"],
       ["Price double", "€75-80"],
@@ -176,7 +174,6 @@ accommodations_others:
     ]
   - [
       ["Name", "Il Giardino Incantato"],
-      ["Email", "x"],
       ["Website", "www.ilgiardinoincantato.net"],
       ["Price single", "x"],
       ["Price double", "€170-200"],
@@ -216,7 +213,6 @@ accommodations_others:
     ]
   - [
       ["Name", "Manuel's Guesthouse"],
-      ["Email", "x"],
       ["Website", "www.manuelsguesthouse.com"],
       ["Price single", "x"],
       ["Price double", "€100-120"],
@@ -300,8 +296,6 @@ accommodations_others:
   - [
       ["Name", "Albergo Souvenir"],
 	  ["Stars", "**"],
-      ["Email", "x"],
-      ["Website", "x"],
       ["Price single", "x"],
       ["Price double", "€30-120"],
       ["No. of rooms", "30"],
@@ -341,7 +335,6 @@ accommodations_others:
     ]
   - [
       ["Name", "Il Timone Rooms"],
-      ["Email", "x"],
       ["Website", "www.iltimonedimonterosso.it"],
       ["Price single", "x"],
       ["Price double", "€90"],
