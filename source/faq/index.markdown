@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "calendar"
+title: "FAQ"
 comments: false
 sharing: false
 footer: true
 ---
-This page will hold details regarding calendar
+This page will list answers to common questions
