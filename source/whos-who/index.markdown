@@ -10,10 +10,10 @@ people:
       ["Name", "Anne Beaubien", "Bride"], 
       ["Birth place", "Missouri, USA"],
       ["Current location", "California, USA"],
-      ["Favorite drink", "Sangria Smoothie"],
+      ["Favorite drink", "Extra Dirty Grey goose Martini, Up"],
       ["Favorite past-times", "cycling, cooking, gardening, traveling"],
-      ["About", "Having grown up in a military family, Anne has rarely spent more than 2 years in the some place. Fortunately she loves to travel, and was lucky enough to find herself a foreigner who shares the same passion.
-	  Anne loves cooking for Chris and spends most of her time coming up with new recipes for her website WaffleHearts.com, which are of course taste tested by Chris."]
+      ["About", "Having grown up in a military family, Anne has rarely spent more than 2 years in the same place. Fortunately she loves to travel, and was lucky enough to find herself a foreigner who shares the same passion.
+	  Anne loves cooking for Christopher and spends most of her time coming up with new recipes for her website WaffleHearts.com, which are of course taste tested by Christopher. With a green thumb and a favorable climate, the dishes are always full of healthy, home-grown ingredients."]
     ]
   - [
       ["Photo", "chris.jpg"], 
@@ -21,8 +21,8 @@ people:
       ["Birthplace", "Oslo, Norway"],
       ["Current location", "California, USA "],
       ["Favorite drink", "Midori Sour"],
-      ["Favorite past times", "programming, traveling, exercise"],
-      ["About", "Being half English and half Norwegian with family spread across the two countries involved a lot of travelling forth and back for Christopher. Therefore it surprised no one that as soon as he reached adulthood he spent the next ten years seeing different parts of the world. Currently Christopher is really enjoying the sunny california coast while working at Apple Inc, helping to develop all of those very secret devices. You know you have one."]
+      ["Favorite past times", "programming, traveling, exercising"],
+      ["About", "Being half English and half Norwegian with family spread across the two countries involved a lot of travelling back and forth for Christopher. Therefore it surprised no one that as soon as he reached adulthood he spent the next ten years seeing different parts of the world. Currently Christopher is really enjoying the sunny California coast while working at Apple Inc, helping to develop all of those very secret devices. You know you have one."]
 	]
   - [
       ["Photo", "margaret.jpg"], 
@@ -31,7 +31,7 @@ people:
       ["Current location", "Virginia, USA"],
       ["Favorite drink", "Margarita"],
       ["Favorite past times", "reading, traveling, taking pictures, having tea with her daughter (Anne)"],
-      ["About", "Margaret is a single parent with two great kids. Her love of caring for others lead her to a career in nursing where she eventually joined the Navy Nurse Corps. After becoming a captain, Margaret moved on to serve as the Chief Medical Information Officer and quite recently became the first Naval Officer and nurse to serve as the Deputy Chief Information Officer for the Military Health System."]
+      ["About", "Margaret is a single parent with two great kids. Her love of caring for others lead her to a career in nursing where she eventually joined the Navy Nurse Corps. After becoming a captain, Margaret moved on to serve as the Chief Medical Information Officer and quite recently became the first Naval Officer and nurse to serve as the Deputy Chief Information Officer for the Military Health System. Margaret has never been to Italy, and cannot wait to experience the beautiful Italian countryside with her old and new family."]
 	]
   - [
       ["Photo", "joan.jpg"], 
@@ -40,25 +40,25 @@ people:
       ["Current location", "Vestby, Norway"],
       ["Favorite Drink", "Wine: a glass of Italian red Barolo or Ripasso and on lazy, warm summer days rosé from Provence or a glass of sparkling"],
       ["Favorite past times", "Theatre visits, jazz music, gardening and should be golf BUT at the moment the golf bag is collecting dust."],
-      ["About", "Joan is a single parent for two great yet very different brothers. She currently works for VPS, the only central securities depository in Norway, where she primarily helps develop international data exchange standards used by a lot of the European countries. Perks of her job include frequent flier miles and relaxing at the company’s French apartment."]
+      ["About", "Joan is a single parent for two great yet very different brothers. She currently works for VPS, the only central securities depository in Norway, where she primarily helps develop international data exchange standards used by a lot of the European countries. Perks of her job include frequent flyer miles and relaxing at the company’s French apartment."]
 	]
   - [
       ["Photo", "jennifer.jpg"], 
       ["Name", "Jennifer Walker", "Maid of Honor"],
       ["Birthplace", "Arizona, USA"],
       ["Current location", "Washington DC, USA"],
-      ["Favorite Drink", ""],
-      ["Favorite past times", ""],
-      ["About", "Jennifer and Anne have been best friends since they were 7"]
+      ["Favorite Drink", "A nice glass of red wine"],
+      ["Favorite past times", "Inviting friends over for Sunday night dinners, traveling, hanging out with family, and most recently picking up golf"],
+      ["About", "My first memories of Anne go all the way back to 2nd grade when we were in Brownies--her mom was our Brownie Troop Leader.  Over the years, she has been my pen pal, my partner in crime, my best friend, and the sister I've always wanted. My favorite childhood memories of Anne are visiting her in California over the summer when we were in high school and driving around in her old mustang convertible; bedazzling t-shirts with iron on prints and tacky glue at Anne's grandma's house; and swimming in my back yard late at night with bowls of frozen grapes floating around the pool..."]
 	]
   - [
       ["Photo", "oyvind.jpg"], 
       ["Name", "Øyvind Rassmussen", "Best Man"],
       ["Birthplace", "Oslo, Norway"],
       ["Current location", "Bergen, Norway"],
-      ["Favorite Drink", ""],
-      ["Favorite past times", ""],
-      ["About", ""]
+      ["Favorite Drink", "SideCar and Appletini?"],
+      ["Favorite past times", "Riding the \"hog\", fist-pumping and hitting the gym"],
+      ["About", "Øyvind (yes, that is an actual letter) is Christopher's oldest proper friend, and was a proper partner in crime during those younger, unruly teenage years. He lives in Bergen with his girlfriend Linn and their most recent addition to the household, the dog Luna. Øyvind works as a logistics coordinator where he makes sure the Norwegian oil companies and platforms get their construction supplies. While not jetsetting around the country with work, Øyvind goes for rides on his proper motorbike nicknamed the Millenium Falcon or walks in the mountains with the two L's."]
 	]
   - [
       ["Photo", "katie.jpg"], 
@@ -83,18 +83,19 @@ people:
       ["Name", "Amy Jizmagian", "Bridesmaid"],
       ["Birthplace", "California, USA"],
       ["Current location", "California, USA"],
-      ["Favorite Drink", ""],
-      ["Favorite past times", ""],
-      ["About", ""]
+      ["Favorite Drink", "Cadillac Margarita"],
+      ["Favorite past times", "D&D, WoW, SWTOR and cooking"],
+      ["About", "Amy is the Whole Foods Market regional knowledge coach for the northern Californian reagion, which means she gets to spend all day around food, whether it's teaching, cooking, eating or shopping she loves healthy foods. If she is not in the kitchen, you can find her on Pinterest. She lives in California with her husband Greg and their dog Sally. The Jizmagian pack likes long walks on the beach and watching the sunset over the Pacfic ocean."]
 	]
   - [
       ["Photo", "michael.jpg"], 
       ["Name", "Michael Beaubien", "Groomsman"],
       ["Birthplace", "Missouri, USA"],
-      ["Current location", ""],
-      ["Favorite Drink", ""],
-      ["Favorite past times", ""],
-      ["About", ""]
+      ["Current location", "California, USA"],
+      ["Favorite Drink", "Old Fashioned"],
+      ["Favorite past times", "G, T, L!"],
+      ["About", "Mike, big brother of the bride, is the Director of Marketing for the San Jose State Athletics department. Mike is lucky enough to have a job where he gets to watch sports all day, which happens to be one of his favorite past times. 
+	  He lives in California with his wife Joanna, their dog, Roxy Hart Queen of the Dessert, (yes, that is her legal name) and their cat, Alley. One of their favorite spots in California is the Napa Valley with all its fantastic wineries, and they look forward to the chance to compare them to the Buranco wines."]
 	]
 ---
 {% for person in page.people %}
