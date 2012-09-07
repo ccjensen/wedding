@@ -40,7 +40,7 @@ people:
       ["Current location", "Vestby, Norway"],
       ["Favorite Drink", "Wine: a glass of Italian red Barolo or Ripasso and on lazy, warm summer days rosé from Provence or a glass of sparkling"],
       ["Favorite past times", "Theatre visits, jazz music, gardening and should be golf BUT at the moment the golf bag is collecting dust."],
-      ["About", "Joan is a single parent for two great yet very different brothers. She currently works for VPS, the only central securities depository in Norway, where she primarily helps develop international data exchange standards used by a lot of the European countries. Perks of her job include frequent flyer miles and relaxing at the company’s French apartment."]
+      ["About", "Joan is a single parent for two great yet very different brothers, and loves visiting them in their respective countries, in London and California. She currently works for VPS, the only central Securities Depository in Norway, involved in business development primarily in international data exchange standards used worldwide. Perks of her job include frequent flyer miles and relaxing at the company's French apartment."]
 	]
   - [
       ["Photo", "jennifer.jpg"], 
