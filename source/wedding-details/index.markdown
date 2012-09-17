@@ -5,7 +5,7 @@ comments: false
 sharing: false
 footer: true
 ---
-## Vital Details
+## Wedding Day
 **Date:** June 21, 2013		
 **Time:** 4pm (16:00)
 
@@ -48,4 +48,4 @@ A suit and tie, dark or light.
 
 
 **Suggested women’s attire:**  
-A cocktail dress, short or long or equivalent skirt or nice pants and blouse. Stiletto heels are not recommended because the ceremony and reception are on grass. Hats/fascinators are encouraged.  
+A cocktail dress, short or long or equivalent skirt or nice pants and blouse. Stiletto heels are not recommended because the ceremony and reception are on grass. We suggest flats or wedges. Anne is a huge fan of hats, so formal hats or fascinators are encouraged.  
