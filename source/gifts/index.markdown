@@ -5,4 +5,13 @@ comments: false
 sharing: false
 footer: true
 ---
-This page will hold details regarding the gift list
+Gifts are not expected, your presence is the best gift we could ask for. However if you do wish to contribute a gift we are happy to accept. We are registered at:  
+[Sur la Table](http://www.surlatable.com/registry/giftRegistryList.jsp?id=200339166084)  
+[Amazon USA](http://www.amazon.com/registry/wedding/CRSRA3AJ4DRU)  
+We are also accepting monetary donations towards our honeymoon in Switzerland. More details to follow.  
+***
+We will be going on our honeymoon directly following the wedding so we will be unable to bring gifts home from Italy.  Please have gifts sent to our home in California:  
+Anne Beaubien/Christopher Jensen  
+825 E. Evelyn Ave Apt 614  
+Sunnyvale, CA 94086  
+USA  
