@@ -338,10 +338,10 @@ accommodations_others:
 ---
 We have compiled a list of accommodation suggestions together with our wedding planner who operates in Cinque Terre. We have tried to verify all the details regarding the hotels, but obviously things might change before the wedding in 2013 (especially prices). Besides the top few being recommended by the wedding planner, they are not listed in any specific order.
 
-If you decide to book at any of the ones suggested, make sure to mention that you were referred by Melina Nicholson from "Cinque Terre Wedding" and will be attending our wedding at Boronco Winery. This should guarantee that you are well looked after.
+If you decide to book at any of the ones suggested, make sure to mention that you were referred by Melina Nicholson from "Cinque Terre Wedding" and will be attending our wedding at Buranco Winery. This should guarantee that you are well looked after.
 
 <h3>Easiest option:</h3>
-Melina suggested [The Net Accommodation Service](http://www.monterossonet.com/), which is a one-stop shop for accommodation in the area, as an easier option than contacting hotels individually as they cover a range of accommodation options and prices. Here you fill out an accommodation request form with your requirements and they will check availabilites for you.
+Melina suggested [The Net Accommodation Service](http://www.monterossonet.com/), which is a one-stop shop for accommodation in the area, as an easier option than contacting hotels individually as they cover a range of accommodation options and prices. We suggest that you email the details to [Monterosso Net](mailto:info@monterossonet.com) making sure to mention that you are attending our wedding and that Melina Nicholson is our wedding planner.
 
 <br/>
 <h3>Recommended for great service and quality:</h3>

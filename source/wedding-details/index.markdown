@@ -13,7 +13,7 @@ footer: true
 
 ## Meal Selection
 First, please select either carnivore, vegetarian or dairy free.  
-If you chose carnivore you need to choose between Cinghiale or Turkey meat.  
+If you chose carnivore, or dairy-free you need to choose between Cinghiale or Turkey meat.  
 
 {% render_partial _partials/table_style.markdown %}
 <table class="ztab1">
