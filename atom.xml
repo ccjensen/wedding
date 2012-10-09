@@ -4,7 +4,7 @@
   <title><![CDATA[Anne & Christopher's wedding]]></title>
   <link href="http://ccjensen.github.com/wedding/atom.xml" rel="self"/>
   <link href="http://ccjensen.github.com/wedding/"/>
-  <updated>2012-10-02T17:08:19-07:00</updated>
+  <updated>2012-10-08T20:44:07-07:00</updated>
   <id>http://ccjensen.github.com/wedding/</id>
   <author>
     <name><![CDATA[The Happy Couple]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Wedding invites just sent out]]></title>
+    <link href="http://ccjensen.github.com/wedding/blog/2012/10/08/wedding-invites-just-sent-out/"/>
+    <updated>2012-10-08T20:36:00-07:00</updated>
+    <id>http://ccjensen.github.com/wedding/blog/2012/10/08/wedding-invites-just-sent-out</id>
+    <content type="html"><![CDATA[<p>We&#8217;ve just sent out all the wedding invites. Please have a look around the website and RSVP by December 20th.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Getting the website up and running]]></title>
