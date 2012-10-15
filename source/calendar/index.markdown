@@ -19,11 +19,11 @@ This is a one-mile easy, paved walk along the famous Via Dell’Amore; a trail b
 10:15am - meet at the Monterosso train station (train leaves at 10:30 arrives in Manarola at 10:45 and Riomaggiore at 1050).  
 11am - meet at the beginning of the trail in either Manarola or Riomaggiore and begin the walk.  
 ***
-June 19, 2013 --- 4:30pm (16:30)  
+June 19, 2013 --- 5:30pm (17:30)  
 **Meet and Greet** hosted by Joan Jensen and Margaret Beaubien
-4:30pm - Appetizers and Aperitifs at the piazza in Vernazza (restaurant to be determined) 
+5:30pm - Appetizers and Aperitifs at the piazza in Vernazza (restaurant to be determined) 
 You can choose your method of transportation:  
-Train €1 (Meet at Monterosso train station at 4:10 (last train to arrive in time departs: 4:18 / arrives: 4:23)  
+Train €1 (Meet at Monterosso train station at 5:00
 Ferry €5 (Meet at Monterosso harbor at....TBD)  
 ***
 June 20, 2013  
