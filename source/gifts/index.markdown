@@ -21,15 +21,17 @@ USA
 We are also accepting monetary contributions towards our honeymoon and some other items that couldn't be put on any of the gift registries.
 
 ##Honeymoon
-Our honeymoon will primarily be in Mürren, Switzerland.
+Our honeymoon will primarily be in Mürren, Switzerland. These are some of the activites that we think would be fun. See payment methods below for suggested ways to contribute.
 <ul>
-    <li><a href="http://mylauterbrunnen.com/5/4/11/en/Holidays/WINTER/Rental/Murren/Stager_Sport">Mountain bike rental</a></li>
-    <li><a href="http://www.glacierexpress.ch/en/Pages/default.aspx">Glacier Express</a></li>
-    <li>Dinner at <a href="http://www.schilthorn.ch/en/schilthorn/">Piz Gloria</a> (revolving restaurant on top of Schilthorn)</li>
-    <li>Funicular to the top of <a href="http://www.schilthorn.ch/en/allmendhubel/">Allmendhubel</a></li>
+    <li>Mountain bike rental(000570671280
+<a href="http://mylauterbrunnen.com/5/4/11/en/Holidays/WINTER/Rental/Murren/Stager_Sport">information</a>)</li>
+    <li>Glacier Express(<a href="http://www.glacierexpress.ch/en/Pages/default.aspx">information</a>)</li>
+    <li>Dinner at Piz Gloria (revolving restaurant on top of Schilthorn)(<a href="http://www.schilthorn.ch/en/schilthorn/">information</a>)</li>
+    <li>Funicular to the top of Allmendhubel(<a href="http://www.schilthorn.ch/en/allmendhubel/">information</a>)</li>
 </ul>
 
 ##Non-Gift List Items
+Here are some items that we couldn't add to our gift registries. See payment methods below for suggested ways to contribute.
 <ul>
     <li><a href="http://www.rimowa.de/produktsuche/overview/salsa_air">Rimowa Salsa Air</a> - (Luggage):</li>
         <ul>
