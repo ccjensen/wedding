@@ -25,7 +25,7 @@ Our honeymoon will primarily be in Mürren, Switzerland. These are some of the a
 <ul>
     <li>Mountain bike rental (<a href="http://mylauterbrunnen.com/5/4/11/en/Holidays/WINTER/Rental/Murren/Stager_Sport">information</a>)</li>
     <li>Glacier Express (<a href="http://www.glacierexpress.ch/en/Pages/default.aspx">information</a>)</li>
-    <li>Dinner at Piz Gloria (revolving restaurant on top of Schilthorn)(<a href="http://www.schilthorn.ch/en/schilthorn/">information</a>)</li>
+    <li>Dinner at Piz Gloria (revolving restaurant on top of Schilthorn) (<a href="http://www.schilthorn.ch/en/schilthorn/">information</a>)</li>
     <li>Funicular to the top of Allmendhubel (<a href="http://www.schilthorn.ch/en/allmendhubel/">information</a>)</li>
 </ul>
 
