@@ -40,7 +40,7 @@ Trofie (potato flour) pasta with spring vegetables</td>
   </tr>
 </table>
 
-Once you have made your decision please email Anne at [annebeaubien@gmail.com](mailto:annebeabien@gmail.com?subject=wedding%20menu%20selection), subject: *wedding menu selection*
+Once you have made your decision please email Anne at [annebeaubien@gmail.com](mailto:annebeaubien@gmail.com?subject=wedding%20menu%20selection), subject: *wedding menu selection*
 
 ## Dress Code
 **Suggested men’s attire:**  
