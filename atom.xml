@@ -4,7 +4,7 @@
   <title><![CDATA[Anne & Christopher's wedding]]></title>
   <link href="http://ccjensen.github.com/wedding/atom.xml" rel="self"/>
   <link href="http://ccjensen.github.com/wedding/"/>
-  <updated>2012-12-11T08:13:09-08:00</updated>
+  <updated>2012-12-14T20:00:00-08:00</updated>
   <id>http://ccjensen.github.com/wedding/</id>
   <author>
     <name><![CDATA[The Happy Couple]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Meal selections and RSVPs]]></title>
+    <link href="http://ccjensen.github.com/wedding/blog/2012/12/14/meal-selections-and-rsvps/"/>
+    <updated>2012-12-14T19:55:00-08:00</updated>
+    <id>http://ccjensen.github.com/wedding/blog/2012/12/14/meal-selections-and-rsvps</id>
+    <content type="html"><![CDATA[<p>As some of you may have noticed, the deadline for the RSVPs is rapidely approaching, so please make sure to get those sent in as soon as possible. With the RSVPs we also request that you email us your menu selection. You can find more details in the &#8220;Wedding details&#8221; section. If you do not provide a menu selection, then the default is:<br/>
+First course: Trofie with pasta and pesto with prawns<br/>
+Second course: Wild boar with leeks and potatoes</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Wedding invites - take 2]]></title>
