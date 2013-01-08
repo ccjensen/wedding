@@ -15,30 +15,18 @@ footer: true
 First, please select either carnivore, vegetarian or dairy free.  
 If you chose carnivore, or dairy-free you need to choose between Cinghiale or Turkey meat.  
 
-{% render_partial _partials/table_style.markdown %}
-<table class="ztab1">
-  <tr>
-    <th>Category</th>
-    <th>First</th>
-    <th>Second</th>
-  </tr>
-  <tr>
-    <td>Carnivore</td>
-    <td>Trofie (potato flour) pasta with pesto and prawns</td>
-    <td>Cinghiale (wild boar) or turkey with leek and potatoes.<br \>(Please choose Cinghiale or Turkey)</td>
-  </tr>
-  <tr>
-    <td>Vegetarian</td>
-    <td>Vegetarian
-Trofie (potato flour) pasta with spring vegetables</td>
-    <td>Eggplant parmesan with ratatouille and grilled vegetables</td>
-  </tr>
-  <tr>
-    <td>Dairy Free</td>
-    <td>Trofie (potato flour) pasta with spring vegetables</td>
-    <td>Cinghiale (wild boar) or turkey with leek and potatoes.<br \>(Please choose Cinghiale or Turkey)</td>
-  </tr>
-</table>
+__Option 1: Carnivore__  
+_1st course:_ Trofie (potato flour) pasta with pesto and prawns  
+_2nd course:_ Cinghiale (wild boar) or turkey with leek and potatoes (Please choose Cinghiale or Turkey)  
+
+__Option 2: Vegetarian__  
+_1st course:_ Vegetarian
+Trofie (potato flour) pasta with spring vegetables  
+_2nd course:_ Eggplant parmesan with ratatouille and grilled vegetables  
+
+__Option 3: Dairy Free__  
+_1st course:_ Trofie (potato flour) pasta with spring vegetables  
+_2nd course:_ Cinghiale (wild boar) or turkey with leek and potatoes.<br \>(Please choose Cinghiale or Turkey)  
 
 Once you have made your decision please email Anne at [annebeaubien@gmail.com](mailto:annebeaubien@gmail.com?subject=wedding%20menu%20selection), subject: *wedding menu selection*
 
