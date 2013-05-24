@@ -19,15 +19,20 @@ This is a one-mile easy, paved walk along the famous Via Dell’Amore; a trail b
 10:15am - meet at the Monterosso train station (train leaves at 10:30 arrives in Manarola at 10:45 and Riomaggiore at 1050).  
 11am - meet at the beginning of the trail in either Manarola or Riomaggiore and begin the walk.  
 ***
-June 19, 2013 --- 5:30pm (17:30)  
-**Meet and Greet** hosted by Joan Jensen and Margaret Beaubien
-5:30pm - Appetizers and Aperitifs at the piazza in Vernazza (restaurant to be determined) 
+June 19, 2013 --- 6:30-8:30pm (18:30-20:30)  
+**Meet and Greet** hosted by Joan Jensen and Margaret Beaubien  
+6:30pm - Appetizers and Aperitifs at the Ananasso Bar, piazza in Vernazza  
+Address: 1, 19018 Vernazza La Spezia, Italy  
+The restaurant is in the harbor, don't listen to what Google Maps says!  
+  
 You can choose your method of transportation:  
-Train €1 (Meet at Monterosso train station at 5:00
+Train €1 (Meet at Monterosso train station at 6:00)  
 Ferry €5 (Meet at Monterosso harbor at....TBD)  
+Local Information: http://www.ricksteves.com/plan/destinations/italy/vernazza-monterosso- travel-guide.htm  
 ***
 June 20, 2013  
 Relax and enjoy all the wonderful food and atmosphere that the towns of the Cinque Terre offer. We invite guests to venture out into the different towns and explore. The five towns are only a 10 minute train ride apart and trains run about every 15 minutes until midnight.  
+If you are an early riser we recommend that you check out the Thursday Morning Market: Each Thursday morning, trucks pull into the old town and fill the public area by the beach with temporary stalls where you can buy items not otherwise available in this small town.  
 ***
 June 21, 2013 --- 4pm (16:00)  
 **Wedding Day**  
