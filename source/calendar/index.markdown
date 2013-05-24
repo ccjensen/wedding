@@ -26,12 +26,13 @@ Address: 1, 19018 Vernazza La Spezia, Italy
 The restaurant is in the harbor, don't listen to what Google Maps says!  
   
 You can choose your method of transportation:  
-Train €1 (Meet at Monterosso train station at 6:00)  
-Ferry €5 (Meet at Monterosso harbor at....TBD)  
-Local Information: http://www.ricksteves.com/plan/destinations/italy/vernazza-monterosso- travel-guide.htm  
+Train €1  
+Ferry €5  
+Local Information: [Rick Steves Travel Guide](http://www.ricksteves.com/plan/destinations/italy/vernazza-monterosso-travel-guide.htm]  
 ***
 June 20, 2013  
-Relax and enjoy all the wonderful food and atmosphere that the towns of the Cinque Terre offer. We invite guests to venture out into the different towns and explore. The five towns are only a 10 minute train ride apart and trains run about every 15 minutes until midnight.  
+Relax and enjoy all the wonderful food and atmosphere that the towns of the Cinque Terre offer.  
+We invite guests to venture out into the different towns and explore. The five towns are only a 10 minute train ride apart and trains run about every 15 minutes until midnight.  
 If you are an early riser we recommend that you check out the Thursday Morning Market: Each Thursday morning, trucks pull into the old town and fill the public area by the beach with temporary stalls where you can buy items not otherwise available in this small town.  
 ***
 June 21, 2013 --- 4pm (16:00)  
